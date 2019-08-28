@@ -10,4 +10,4 @@
 * Gradle
 * Querydsl with JPA
 * H2 database
-* Vuew.js
+* Vue.js
